@@ -1,4 +1,4 @@
-# Mathematic-Algorithms
+# Popular Algorithms
 
 
 # Greatest Common Divisor (Euclid's Algorithm)
